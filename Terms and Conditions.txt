@@ -1,0 +1,3 @@
+Terms of Service Description:
+
+By using our analytics and reporting services, users within our organization agree that the data accessed through the TikTok Developer platform will be used strictly for legitimate business purposes related to content performance, marketing optimization, and audience insights. Unauthorized sharing, redistribution, or commercial use of TikTok data outside our organization is prohibited, and all activities must comply with TikTok’s Developer Terms and applicable laws.
